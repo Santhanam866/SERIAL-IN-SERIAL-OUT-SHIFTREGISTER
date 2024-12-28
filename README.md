@@ -51,7 +51,7 @@ endmodule
 ```
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
 
-Developed by:Ragul.K RegisterNumber:24006231
+Developed by: Sandhanam S RegisterNumber:24900166
 
 */
 
@@ -65,4 +65,3 @@ Developed by:Ragul.K RegisterNumber:24006231
 **RESULTS**
 
 SISO Shift Register using verilog and validating their functionality using their functional tables has successful execution of the program.
-
